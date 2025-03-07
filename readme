@@ -1,0 +1,10 @@
+1) Initialize Node
+    npm init -y
+2) Install Node
+    npm install node
+3) Install Express
+    npm install Express
+4) Install jsonwebtoken
+    npm install jsonwebtoken
+5) run server.js
+    node server.js
